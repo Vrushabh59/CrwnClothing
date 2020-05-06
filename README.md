@@ -1,5 +1,3 @@
-## Lesson-22
-
 We don't want our users to lose their carts whenever they refresh, so we are going to leverage one of the benefits of redux by persisting our store object in localstorage using redux-persist.
 
 # How to fork and clone
